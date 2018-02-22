@@ -4,6 +4,10 @@ body{
 	background: url('img/Background1.png');
 }
 
+a { 
+    text-decoration: none;
+   } 
+   
 #header{
 	width: 1700px;
 	margin-right: auto;
